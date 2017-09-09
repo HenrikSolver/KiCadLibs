@@ -31,4 +31,9 @@ D Fully Differential Input/Output Amplifier/Driver
 F http://cds.linear.com/docs/en/datasheet/1994fb.pdf
 $ENDCMP
 #
+$CMP N-CH-MOSFET
+D FET N-Channel Power MOSFET, SO8
+K Power MOSFET N-MOS
+$ENDCMP
+#
 #End Doc Library
